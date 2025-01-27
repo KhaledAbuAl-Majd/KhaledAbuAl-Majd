@@ -27,7 +27,7 @@
     <img src="https://dotnet.microsoft.com/static/favicon.ico" alt="dotnet" width="40" height="40"/>   
   </a>  
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Windows_Forms_%28Windows_Dev_Center%29.svg" alt="windows-forms" width="40" height="40"/>   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Windows_Forms.png" alt="windows-forms" width="40" height="40"/>   
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
