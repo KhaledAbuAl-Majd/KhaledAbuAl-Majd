@@ -24,10 +24,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>   
   </a>  
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">  
-    <img src="https://dotnet.microsoft.com/static/favicon.ico" alt="dotnet" width="40" height="40"/>   
+    <img src="https://cdn.iconscout.com/icon/free/png-256/dot-net-2822589-2349789.png" alt="dotnet" width="40" height="40"/>   
   </a>  
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Windows_Forms.png" alt="windows-forms" width="40" height="40"/>   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Windows_Forms.svg" alt="windows-forms" width="40" height="40"/>   
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
