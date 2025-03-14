@@ -9,7 +9,6 @@
   - Windows Forms, SQL, ADO.NET  
   - 3 Tier Architecture, OOP  
 
----
 ## Connect with me:
 <p align="left">  
   <a href="https://linkedin.com/in/khaled-abu-al-majd-427454326" target="blank">  
@@ -20,7 +19,6 @@
   </a>  
 </p>  
 
----
 
 ## Languages and Tools:
 <p align="left">
