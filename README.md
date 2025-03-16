@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Khaled </h1>
 
-## Aspiring .NET Developer
+<h1 align="center">Aspiring .NET Developer</h1>
 
-- 🌱 I’m currently studying .NET Development  
-- 👨‍💻 I aspire to be a .NET Developer  
-- 💬 Ask me about:  
-  - cpp, C#, .NET  
-  - Windows Forms, SQL, ADO.NET  
-  - 3 Tier Architecture, OOP  
+- ### 🌱 I’m currently studying .NET Development  
+- ### 👨‍💻 I aspire to be a .NET Developer  
+- ### 💬 Ask me about:  
+  - ### cpp, C#, .NET  
+  - ### Windows Forms, SQL Server, ADO.NET  
+  - ### 3 Tier Architecture, OOP  
 
 ## Connect with me:
 <p align="left">  
