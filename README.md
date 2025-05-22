@@ -5,9 +5,14 @@
 - ### 🌱 I’m currently studying .NET Development  
 - ### 👨‍💻 I aspire to be a .NET Developer  
 - ### 💬 Ask me about:  
-  - ### cpp, C#, .NET  
-  - ### Windows Forms, SQL Server, ADO.NET  
-  - ### 3 Tier Architecture, OOP  
+- Programming: C#, C++
+- Frameworks: .NET Framework, ADO.NET
+- UI: Windows Forms, Guna UI
+- Databases: SQL Server
+- Tools: Visual Studio, Git & GitHub, SQL Server Management Studio
+- Concepts: OOP, 3-Tier Architecture, Basics of Data Structure
+- Other Skills: Debugging
+
 
 ## Connect with me:
 <p align="left">  
