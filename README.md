@@ -7,7 +7,7 @@
    - Programming: C#, C++
    - Frameworks: .NET Framework, ADO.NET
    - UI: Windows Forms, Guna UI
-   - Databases: SQL Server
+   - Databases: SQL Server, Transact-SQL (T-SQL)
    - Tools: Visual Studio, Git & GitHub, SQL Server Management Studio
    - Concepts: OOP, 3-Tier Architecture, Basics of Data Structure
    - Other Skills: Debugging
