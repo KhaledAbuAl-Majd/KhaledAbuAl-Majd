@@ -29,7 +29,7 @@
 
 ## Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/khaled-abu-al-majd-427454326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaDDkqZTlThiV37C%2FHCUNBQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/khaledabualmajd1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:khaledabualmajd06@gmail.com" target="_blank">
