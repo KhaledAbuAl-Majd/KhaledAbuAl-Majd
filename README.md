@@ -1,8 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Khaled </h1>
 
 <h1 align="center">.NET Developer</h1>
-
-- ### 🌱 I’m currently studying .NET Development  
 - ### 💬 Ask me about:  
    - Programming: C#, C++
    - Frameworks: .NET Framework, ADO.NET
