@@ -5,7 +5,7 @@
 
 ---
 
-### 💡 Skills & Expertise
+### 💡 Skills
 
 * **Programming Languages:** C#, C++
 * **Frameworks & Libraries:** .NET Framework, ADO.NET, Windows Forms
