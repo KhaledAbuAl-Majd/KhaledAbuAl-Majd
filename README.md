@@ -8,11 +8,11 @@
 ### 💡 Skills
 
 * **Programming Languages:** C#, C++
-* **Frameworks & Libraries:** .NET Framework, ADO.NET, Windows Forms
+* **Frameworks & Libraries:** .NET Framework, ADO.NET
 * **Databases:** SQL Server, Transact-SQL (T-SQL)
-* **Concepts & Architecture:** Object-Oriented Programming (OOP), 3-Tier Architecture, Debugging
+* **Concepts & Architecture:** Data Structures, Object-Oriented Programming (OOP), 3-Tier Architecture, Debugging
 * **Tools:** Visual Studio, Git & GitHub, SQL Server Management Studio (SSMS)
-* **UI/UX:** Windows Forms, Guna UI
+* **UI/UX:** Windows Forms
 
 ---
 
