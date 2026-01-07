@@ -10,7 +10,8 @@
 * **Programming Languages:** C#, C++
 * **Frameworks & Libraries:** .NET Framework, ADO.NET
 * **Databases:** SQL Server, Transact-SQL (T-SQL)
-* **Concepts & Architecture:** Data Structures, Object-Oriented Programming (OOP), 3-Tier Architecture, Debugging
+* **Concepts & Architecture:** Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), 3-Tier Architecture, Debugging
+* **System Development:** Windows Services
 * **Tools:** Visual Studio, Git & GitHub, SQL Server Management Studio (SSMS)
 * **UI/UX:** Windows Forms
 
