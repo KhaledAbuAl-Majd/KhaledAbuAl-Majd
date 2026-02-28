@@ -11,7 +11,7 @@
 * **Web Development & APIs:** ASP.NET Core Web API, RESTful API
 * **Frameworks & Libraries:** .NET Framework, ADO.NET, LINQ
 * **Databases:** SQL Server, Transact-SQL (T-SQL)
-* **Concepts & Architecture:** Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), N-Tier Architecture, Debugging
+* **Concepts & Architecture:** SOLID Design Principles, Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), N-Tier Architecture, Debugging
 * **System Development:** Windows Services
 * **Tools:** Visual Studio, Git & GitHub, SQL Server Management Studio (SSMS)
 * **UI/UX:** Windows Forms
