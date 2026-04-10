@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Hi 👋, I'm Khaled </h1>
-    <h2> .NET Developer | CS Student </h2>
+    <h2> .NET Backend Developer | CS Student </h2>
 </div>
 
 ---
