@@ -7,14 +7,13 @@
 
 ### 💡 Skills
 
-* **Programming Languages:** C#, C++
-* **Web Development & APIs:** ASP.NET Core Web API, RESTful API
-* **Frameworks & Libraries:** .NET Framework, ADO.NET, LINQ
-* **Databases:** SQL Server, Transact-SQL (T-SQL)
-* **Concepts & Architecture:** SOLID Design Principles, Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), N-Tier Architecture, Debugging
-* **System Development:** Windows Services
-* **Tools:** Visual Studio, Git & GitHub, SQL Server Management Studio (SSMS)
-* **UI/UX:** Windows Forms
+* **Languages & Frameworks:** C#, C++, .NET, ADO.NET, LINQ, ASP.NET Core Web API.
+* **App Development & DB:** SQL Server, Transact-SQL (T-SQL), Git & GitHub, Windows Services.
+* **Concepts & Architecture:** SOLID Design Principles, Clean Architecture,Dependency Injection,
+Data Structures & Algorithms, Object-Oriented Programming (OOP), 3-Tier Architecture,
+RESTful API Design, API Security, JWT.
+* **Tools:** Visual Studio,GitHub, SQL Server Management Studio (SSMS).
+* **UI Development:** HTML, CSS, Windows Forms.
 
 ---
 
