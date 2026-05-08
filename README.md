@@ -7,7 +7,7 @@
 
 ### 💡 Skills
 
-* **Languages & Frameworks:** C#, C++, .NET, ADO.NET, LINQ, ASP.NET Core Web API.
+* **Languages & Frameworks:** C#, C++, .NET, ADO.NET, Entity Framework (EF) Core, LINQ, ASP.NET Core Web API.
 * **App Development & DB:** SQL Server, Transact-SQL (T-SQL), Git & GitHub, Windows Services.
 * **Concepts & Architecture:** SOLID Design Principles, Clean Architecture,Dependency Injection,
 Data Structures & Algorithms, Object-Oriented Programming (OOP), 3-Tier Architecture,
