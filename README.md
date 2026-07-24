@@ -20,11 +20,18 @@ RESTful API Design, API Security, JWT.
 ### 🛠️ Languages and Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <!-- مجموعة أيقونات SkillIcons في رابط واحد ممتاز ومسطح -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp&theme=dark" height="40" alt="Languages and Tools" />
+  </a>
+  
+  <!-- أيقونات إضافية مخصصة للـ Backend & Database بنفس الحجم والتناسق -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman / API Testing" /> !-->
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,github,html,css&theme=dark" height="40" alt="Languages and Tools" />
+  </a>
 </div>
 
 ---
@@ -48,5 +55,5 @@ RESTful API Design, API Security, JWT.
 ### 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAbuAl-Majd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhaledAbuAl-Majd&theme=dark&hide_border=false&layout=compact" alt="GitHub Top Languages" />
 </div>
