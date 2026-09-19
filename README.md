@@ -9,7 +9,12 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,githubactions,redis,visualstudio,vscode,git,github&theme=dark" alt="Tech Stack and Tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,visualstudio,vscode&theme=dark" alt="Tech Stack and Tools" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,redis,git,github,html,css&theme=dark" height="40" alt="Tech Stack and Tools" />
+  
 </div>
 
 ---
